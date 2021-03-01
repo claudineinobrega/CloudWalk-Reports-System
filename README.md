@@ -5,8 +5,7 @@ Project of Game Reports System from the Software Engineer test of **CloudWalk**
 ## Description
 
 This project was made for the Software Engineer test of **CloudWalk**.
- Was developed in ruby language with use of Rspec for UnitTest and BDD and make use of OptionParser gem to generate a command line app.
-Was developed in ruby language with Rspec for UnitTest.
+Was developed in Ruby language with use of Rspec for UnitTest and BDD and make use of OptionParser gem to generate a command line app.
 
 ### How to run
 > $ cd path/to/project/cloudwalk_reports/ <br>
