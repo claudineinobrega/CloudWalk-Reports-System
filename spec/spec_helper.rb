@@ -1,0 +1,7 @@
+require_relative '../lib/game.rb'
+require_relative '../lib/kill.rb'
+require_relative '../lib/parser.rb'
+require_relative '../lib/player.rb'
+require_relative '../lib/report.rb'
+require_relative '../bin/reports_system.rb'
+require 'yaml'
